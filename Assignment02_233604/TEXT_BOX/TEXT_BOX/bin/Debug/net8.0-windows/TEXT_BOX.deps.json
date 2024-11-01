@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TEXT_BOX/1.0.0": {
+        "runtime": {
+          "TEXT_BOX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TEXT_BOX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

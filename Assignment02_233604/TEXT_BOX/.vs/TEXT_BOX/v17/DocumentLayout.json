@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lamia fatima\\source\\repos\\TEXT_BOX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BECD7F75-2B4F-46E0-BB8E-57BB4831BFC1}|TEXT_BOX\\TEXT_BOX.csproj|c:\\users\\lamia fatima\\source\\repos\\text_box\\text_box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BECD7F75-2B4F-46E0-BB8E-57BB4831BFC1}|TEXT_BOX\\TEXT_BOX.csproj|solutionrelative:text_box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECD7F75-2B4F-46E0-BB8E-57BB4831BFC1}|TEXT_BOX\\TEXT_BOX.csproj|c:\\users\\lamia fatima\\source\\repos\\text_box\\text_box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECD7F75-2B4F-46E0-BB8E-57BB4831BFC1}|TEXT_BOX\\TEXT_BOX.csproj|solutionrelative:text_box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lamia fatima\\source\\repos\\TEXT_BOX\\TEXT_BOX\\Form1.cs",
+              "RelativeDocumentMoniker": "TEXT_BOX\\Form1.cs",
+              "ToolTip": "C:\\Users\\lamia fatima\\source\\repos\\TEXT_BOX\\TEXT_BOX\\Form1.cs",
+              "RelativeToolTip": "TEXT_BOX\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:32:59.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lamia fatima\\source\\repos\\TEXT_BOX\\TEXT_BOX\\Form1.cs",
+              "RelativeDocumentMoniker": "TEXT_BOX\\Form1.cs",
+              "ToolTip": "C:\\Users\\lamia fatima\\source\\repos\\TEXT_BOX\\TEXT_BOX\\Form1.cs [Design]",
+              "RelativeToolTip": "TEXT_BOX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:29:56.704Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

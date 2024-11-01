@@ -1,0 +1,16 @@
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\bin\Debug\net8.0-windows\LABEL_ASSIGNMENT.exe
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\bin\Debug\net8.0-windows\LABEL_ASSIGNMENT.deps.json
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\bin\Debug\net8.0-windows\LABEL_ASSIGNMENT.runtimeconfig.json
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\bin\Debug\net8.0-windows\LABEL_ASSIGNMENT.dll
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\bin\Debug\net8.0-windows\LABEL_ASSIGNMENT.pdb
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.Form1.resources
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.csproj.GenerateResource.cache
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.AssemblyInfo.cs
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.dll
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\refint\LABEL_ASSIGNMENT.dll
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.pdb
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\LABEL_ASSIGNMENT.genruntimeconfig.cache
+C:\Users\lamia fatima\source\repos\LABEL_ASSIGNMENT\LABEL_ASSIGNMENT\obj\Debug\net8.0-windows\ref\LABEL_ASSIGNMENT.dll

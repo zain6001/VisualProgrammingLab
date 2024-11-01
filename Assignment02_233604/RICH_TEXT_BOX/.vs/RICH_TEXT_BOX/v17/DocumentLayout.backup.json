@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lamia fatima\\source\\repos\\RICH_TEXT_BOX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{839D9904-1408-4DBD-97A8-19CCA2002F2E}|RICH_TEXT_BOX\\RICH_TEXT_BOX.csproj|c:\\users\\lamia fatima\\source\\repos\\rich_text_box\\rich_text_box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D9904-1408-4DBD-97A8-19CCA2002F2E}|RICH_TEXT_BOX\\RICH_TEXT_BOX.csproj|solutionrelative:rich_text_box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D9904-1408-4DBD-97A8-19CCA2002F2E}|RICH_TEXT_BOX\\RICH_TEXT_BOX.csproj|c:\\users\\lamia fatima\\source\\repos\\rich_text_box\\rich_text_box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{839D9904-1408-4DBD-97A8-19CCA2002F2E}|RICH_TEXT_BOX\\RICH_TEXT_BOX.csproj|solutionrelative:rich_text_box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lamia fatima\\source\\repos\\RICH_TEXT_BOX\\RICH_TEXT_BOX\\Form1.cs",
+              "RelativeDocumentMoniker": "RICH_TEXT_BOX\\Form1.cs",
+              "ToolTip": "C:\\Users\\lamia fatima\\source\\repos\\RICH_TEXT_BOX\\RICH_TEXT_BOX\\Form1.cs*",
+              "RelativeToolTip": "RICH_TEXT_BOX\\Form1.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:42:08.318Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lamia fatima\\source\\repos\\RICH_TEXT_BOX\\RICH_TEXT_BOX\\Form1.cs",
+              "RelativeDocumentMoniker": "RICH_TEXT_BOX\\Form1.cs",
+              "ToolTip": "C:\\Users\\lamia fatima\\source\\repos\\RICH_TEXT_BOX\\RICH_TEXT_BOX\\Form1.cs [Design]*",
+              "RelativeToolTip": "RICH_TEXT_BOX\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:40:30.437Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

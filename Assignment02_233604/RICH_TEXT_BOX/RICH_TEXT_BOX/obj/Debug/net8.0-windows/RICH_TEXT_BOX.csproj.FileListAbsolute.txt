@@ -1,0 +1,16 @@
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\bin\Debug\net8.0-windows\RICH_TEXT_BOX.exe
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\bin\Debug\net8.0-windows\RICH_TEXT_BOX.deps.json
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\bin\Debug\net8.0-windows\RICH_TEXT_BOX.runtimeconfig.json
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\bin\Debug\net8.0-windows\RICH_TEXT_BOX.dll
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\bin\Debug\net8.0-windows\RICH_TEXT_BOX.pdb
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.Form1.resources
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.csproj.GenerateResource.cache
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.AssemblyInfoInputs.cache
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.AssemblyInfo.cs
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.csproj.CoreCompileInputs.cache
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.dll
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\refint\RICH_TEXT_BOX.dll
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.pdb
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\RICH_TEXT_BOX.genruntimeconfig.cache
+C:\Users\lamia fatima\source\repos\RICH_TEXT_BOX\RICH_TEXT_BOX\obj\Debug\net8.0-windows\ref\RICH_TEXT_BOX.dll

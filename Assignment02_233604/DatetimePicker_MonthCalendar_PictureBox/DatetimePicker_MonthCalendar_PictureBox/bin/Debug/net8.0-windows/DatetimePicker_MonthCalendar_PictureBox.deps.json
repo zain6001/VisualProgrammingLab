@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DatetimePicker_MonthCalendar_PictureBox/1.0.0": {
+        "runtime": {
+          "DatetimePicker_MonthCalendar_PictureBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatetimePicker_MonthCalendar_PictureBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
