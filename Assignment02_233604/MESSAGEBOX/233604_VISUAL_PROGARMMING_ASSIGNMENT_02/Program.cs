@@ -1,4 +1,4 @@
-namespace _233536_VISUAL_PROGARMMING_ASSIGNMENT_02
+namespace _233604_VISUAL_PROGARMMING_ASSIGNMENT_02
 {
     internal static class Program
     {
