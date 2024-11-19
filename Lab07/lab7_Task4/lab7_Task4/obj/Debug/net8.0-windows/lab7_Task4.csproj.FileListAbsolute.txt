@@ -1,0 +1,16 @@
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\bin\Debug\net8.0-windows\lab7_Task4.exe
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\bin\Debug\net8.0-windows\lab7_Task4.deps.json
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\bin\Debug\net8.0-windows\lab7_Task4.runtimeconfig.json
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\bin\Debug\net8.0-windows\lab7_Task4.dll
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\bin\Debug\net8.0-windows\lab7_Task4.pdb
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.Form1.resources
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.csproj.GenerateResource.cache
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.AssemblyInfoInputs.cache
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.AssemblyInfo.cs
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.csproj.CoreCompileInputs.cache
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.dll
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\refint\lab7_Task4.dll
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.pdb
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\lab7_Task4.genruntimeconfig.cache
+C:\Users\zain\source\repos\lab7_Task4\lab7_Task4\obj\Debug\net8.0-windows\ref\lab7_Task4.dll
