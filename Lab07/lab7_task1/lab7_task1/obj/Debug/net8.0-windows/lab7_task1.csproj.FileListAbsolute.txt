@@ -1,0 +1,16 @@
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.Form1.resources
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.csproj.GenerateResource.cache
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.AssemblyInfoInputs.cache
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.AssemblyInfo.cs
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.csproj.CoreCompileInputs.cache
+E:\1 Visual programming\lab7_task1\lab7_task1\bin\Debug\net8.0-windows\lab7_task1.exe
+E:\1 Visual programming\lab7_task1\lab7_task1\bin\Debug\net8.0-windows\lab7_task1.deps.json
+E:\1 Visual programming\lab7_task1\lab7_task1\bin\Debug\net8.0-windows\lab7_task1.runtimeconfig.json
+E:\1 Visual programming\lab7_task1\lab7_task1\bin\Debug\net8.0-windows\lab7_task1.dll
+E:\1 Visual programming\lab7_task1\lab7_task1\bin\Debug\net8.0-windows\lab7_task1.pdb
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.dll
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\refint\lab7_task1.dll
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.pdb
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\lab7_task1.genruntimeconfig.cache
+E:\1 Visual programming\lab7_task1\lab7_task1\obj\Debug\net8.0-windows\ref\lab7_task1.dll
