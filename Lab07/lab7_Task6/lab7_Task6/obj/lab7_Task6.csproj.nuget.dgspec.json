@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zain\\source\\repos\\lab7_Task6\\lab7_Task6\\lab7_Task6.csproj": {}
+    "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab07\\lab7_Task6\\lab7_Task6\\lab7_Task6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zain\\source\\repos\\lab7_Task6\\lab7_Task6\\lab7_Task6.csproj": {
+    "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab07\\lab7_Task6\\lab7_Task6\\lab7_Task6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zain\\source\\repos\\lab7_Task6\\lab7_Task6\\lab7_Task6.csproj",
+        "projectUniqueName": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab07\\lab7_Task6\\lab7_Task6\\lab7_Task6.csproj",
         "projectName": "lab7_Task6",
-        "projectPath": "C:\\Users\\zain\\source\\repos\\lab7_Task6\\lab7_Task6\\lab7_Task6.csproj",
+        "projectPath": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab07\\lab7_Task6\\lab7_Task6\\lab7_Task6.csproj",
         "packagesPath": "C:\\Users\\zain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zain\\source\\repos\\lab7_Task6\\lab7_Task6\\obj\\",
+        "outputPath": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab07\\lab7_Task6\\lab7_Task6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

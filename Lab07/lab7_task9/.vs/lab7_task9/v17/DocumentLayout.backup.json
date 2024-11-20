@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zain\\source\\repos\\lab7_task9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09AF2E7-D1A0-4383-AF26-D0F44855A8E9}|lab7_task9\\lab7_task9.csproj|c:\\users\\zain\\source\\repos\\lab7_task9\\lab7_task9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09AF2E7-D1A0-4383-AF26-D0F44855A8E9}|lab7_task9\\lab7_task9.csproj|solutionrelative:lab7_task9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09AF2E7-D1A0-4383-AF26-D0F44855A8E9}|lab7_task9\\lab7_task9.csproj|c:\\users\\zain\\source\\repos\\lab7_task9\\lab7_task9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09AF2E7-D1A0-4383-AF26-D0F44855A8E9}|lab7_task9\\lab7_task9.csproj|solutionrelative:lab7_task9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\source\\repos\\lab7_task9\\lab7_task9\\Form1.cs",
+              "RelativeDocumentMoniker": "lab7_task9\\Form1.cs",
+              "ToolTip": "C:\\Users\\zain\\source\\repos\\lab7_task9\\lab7_task9\\Form1.cs*",
+              "RelativeToolTip": "lab7_task9\\Form1.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:21:52.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zain\\source\\repos\\lab7_task9\\lab7_task9\\Form1.cs",
+              "RelativeDocumentMoniker": "lab7_task9\\Form1.cs",
+              "ToolTip": "C:\\Users\\zain\\source\\repos\\lab7_task9\\lab7_task9\\Form1.cs [Design]*",
+              "RelativeToolTip": "lab7_task9\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:19:58.132Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
