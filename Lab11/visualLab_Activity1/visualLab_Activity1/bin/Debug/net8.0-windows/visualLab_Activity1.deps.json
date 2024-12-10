@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "visualLab_Activity1/1.0.0": {
+        "runtime": {
+          "visualLab_Activity1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "visualLab_Activity1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
