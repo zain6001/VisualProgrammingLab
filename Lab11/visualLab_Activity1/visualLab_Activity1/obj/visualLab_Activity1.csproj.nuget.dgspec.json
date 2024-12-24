@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zain\\source\\repos\\visualLab_Activity1\\visualLab_Activity1\\visualLab_Activity1.csproj": {}
+    "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab11\\visualLab_Activity1\\visualLab_Activity1\\visualLab_Activity1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zain\\source\\repos\\visualLab_Activity1\\visualLab_Activity1\\visualLab_Activity1.csproj": {
+    "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab11\\visualLab_Activity1\\visualLab_Activity1\\visualLab_Activity1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zain\\source\\repos\\visualLab_Activity1\\visualLab_Activity1\\visualLab_Activity1.csproj",
+        "projectUniqueName": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab11\\visualLab_Activity1\\visualLab_Activity1\\visualLab_Activity1.csproj",
         "projectName": "visualLab_Activity1",
-        "projectPath": "C:\\Users\\zain\\source\\repos\\visualLab_Activity1\\visualLab_Activity1\\visualLab_Activity1.csproj",
+        "projectPath": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab11\\visualLab_Activity1\\visualLab_Activity1\\visualLab_Activity1.csproj",
         "packagesPath": "C:\\Users\\zain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zain\\source\\repos\\visualLab_Activity1\\visualLab_Activity1\\obj\\",
+        "outputPath": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab11\\visualLab_Activity1\\visualLab_Activity1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

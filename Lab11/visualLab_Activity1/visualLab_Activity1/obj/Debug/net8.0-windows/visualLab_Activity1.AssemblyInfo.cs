@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("visualLab_Activity1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9be122de5fc6799c93d7522f729669bdc461c02d")]
 [assembly: System.Reflection.AssemblyProductAttribute("visualLab_Activity1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("visualLab_Activity1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

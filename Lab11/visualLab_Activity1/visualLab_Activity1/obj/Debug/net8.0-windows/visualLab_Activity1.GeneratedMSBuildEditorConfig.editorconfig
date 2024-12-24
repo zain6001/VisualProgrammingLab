@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = visualLab_Activity1
-build_property.ProjectDir = C:\Users\zain\source\repos\visualLab_Activity1\visualLab_Activity1\
+build_property.ProjectDir = C:\Users\zain\Documents\GitHub\VisualProgrammingLab\Lab11\visualLab_Activity1\visualLab_Activity1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
