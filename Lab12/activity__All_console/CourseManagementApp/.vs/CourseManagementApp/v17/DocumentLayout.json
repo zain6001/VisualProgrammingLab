@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|c:\\users\\zain\\documents\\github\\visualprogramminglab\\lab12\\activity__all_console\\coursemanagementapp\\unassignedcoursesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|solutionrelative:unassignedcoursesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\unassignedcoursesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|solutionrelative:unassignedcoursesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\studentform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|solutionrelative:studentform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\studentform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|solutionrelative:studentform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\courseform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|solutionrelative:courseform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\courseform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|solutionrelative:courseform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12485E07-0F30-49CE-BB84-A253E5B8156C}|CourseManagementApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnassignedCoursesForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\UnassignedCoursesForm.xaml.cs",
+              "RelativeDocumentMoniker": "UnassignedCoursesForm.xaml.cs",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\UnassignedCoursesForm.xaml.cs",
+              "RelativeToolTip": "UnassignedCoursesForm.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:26:53.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnassignedCoursesForm.xaml",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\UnassignedCoursesForm.xaml",
+              "RelativeDocumentMoniker": "UnassignedCoursesForm.xaml",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\UnassignedCoursesForm.xaml",
+              "RelativeToolTip": "UnassignedCoursesForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T04:26:53.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\StudentForm.xaml.cs",
+              "RelativeDocumentMoniker": "StudentForm.xaml.cs",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\StudentForm.xaml.cs",
+              "RelativeToolTip": "StudentForm.xaml.cs",
+              "ViewState": "AQIAAAsAAACAAyW8MZoCwD0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-07T04:26:53.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.xaml",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\StudentForm.xaml",
+              "RelativeDocumentMoniker": "StudentForm.xaml",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\StudentForm.xaml",
+              "RelativeToolTip": "StudentForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T04:26:53.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\CourseForm.xaml.cs",
+              "RelativeDocumentMoniker": "CourseForm.xaml.cs",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\CourseForm.xaml.cs",
+              "RelativeToolTip": "CourseForm.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAIrzR5XcCwD0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-07T04:26:53.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseForm.xaml",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\CourseForm.xaml",
+              "RelativeDocumentMoniker": "CourseForm.xaml",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\CourseForm.xaml",
+              "RelativeToolTip": "CourseForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T04:26:53.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T04:26:53.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\activity__All_console\\CourseManagementApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-07T04:26:53.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

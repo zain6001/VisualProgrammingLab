@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\Depenedency task\\AppointmentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4532D75-FF5F-49CE-BFC8-2AE95FC70357}|AppointmentApp.csproj|c:\\users\\zain\\documents\\github\\visualprogramminglab\\lab12\\depenedency task\\appointmentapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4532D75-FF5F-49CE-BFC8-2AE95FC70357}|AppointmentApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4532D75-FF5F-49CE-BFC8-2AE95FC70357}|AppointmentApp.csproj|C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\Depenedency task\\AppointmentApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4532D75-FF5F-49CE-BFC8-2AE95FC70357}|AppointmentApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4532D75-FF5F-49CE-BFC8-2AE95FC70357}|AppointmentApp.csproj|c:\\users\\zain\\documents\\github\\visualprogramminglab\\lab12\\depenedency task\\appointmentapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4532D75-FF5F-49CE-BFC8-2AE95FC70357}|AppointmentApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\Depenedency task\\AppointmentApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\Depenedency task\\AppointmentApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T05:51:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\Depenedency task\\AppointmentApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\Depenedency task\\AppointmentApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T05:37:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\Depenedency task\\AppointmentApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\VisualProgrammingLab\\Lab12\\Depenedency task\\AppointmentApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:37:24.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
